@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- TODO: 사진이 보이지 않으면 사진을 공개 저장소에 올리고 주소 끝에 "?raw=true" 를 붙여 바꾼다 -->
-<img src="https://github.com/yeoldul123/pri/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C%20%EC%82%AC%EC%A7%84(%EC%88%98%EC%A0%95).png?raw=true" width="160" />
+<!-- 프로필 사진: 이 저장소의 assets/profile.png. 사진을 바꿀 때는 같은 이름으로 덮어쓴다 -->
+<img src="./assets/profile.png" width="160" alt="최한이 프로필 사진" />
 
 # 최 한 이 &nbsp;|&nbsp; OOO OOO
 
