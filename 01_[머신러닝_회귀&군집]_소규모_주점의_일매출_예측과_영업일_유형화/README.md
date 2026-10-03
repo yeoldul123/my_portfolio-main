@@ -40,6 +40,15 @@
 | 토요일 | 74.3만 원 | 식사 손님 비중이 가장 높음 |
 | 일요일·공휴일 | 64.6만 원 / 63.5만 원 | 대량 주문형이 평소(5.1%)의 2~3배 → 단체 예약 확인 |
 
+## 노트북 구성
+
+| 순서 | 파일 | 내용 | 바로 보기 |
+|:--:|---|---|:--:|
+| 1 | [`00_데이터_병합_및_테이블_생성.ipynb`](./00_데이터_병합_및_테이블_생성.ipynb) | POS 거래 로그 정제(총매출 대조, 반품·할인 처리) → 일매출 집계 → 달력·외부 데이터 결합 → `origin.xlsx` | [nbviewer](https://nbviewer.org/github/yeoldul123/my_portfolio-main/blob/main/01_%5B%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%ED%9A%8C%EA%B7%80%26%EA%B5%B0%EC%A7%91%5D_%EC%86%8C%EA%B7%9C%EB%AA%A8_%EC%A3%BC%EC%A0%90%EC%9D%98_%EC%9D%BC%EB%A7%A4%EC%B6%9C_%EC%98%88%EC%B8%A1%EA%B3%BC_%EC%98%81%EC%97%85%EC%9D%BC_%EC%9C%A0%ED%98%95%ED%99%94/00_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B3%91%ED%95%A9_%EB%B0%8F_%ED%85%8C%EC%9D%B4%EB%B8%94_%EC%83%9D%EC%84%B1.ipynb) |
+| 2 | [`소규모_주점의_일매출_예측과_영업일_유형화_최종본.ipynb`](./소규모_주점의_일매출_예측과_영업일_유형화_최종본.ipynb) | 품질 점검, 시계열 EDA, 회귀 모델링·SHAP 해석, K-Means 군집, 운영 캘린더 | [nbviewer](https://nbviewer.org/github/yeoldul123/my_portfolio-main/blob/main/01_%5B%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%ED%9A%8C%EA%B7%80%26%EA%B5%B0%EC%A7%91%5D_%EC%86%8C%EA%B7%9C%EB%AA%A8_%EC%A3%BC%EC%A0%90%EC%9D%98_%EC%9D%BC%EB%A7%A4%EC%B6%9C_%EC%98%88%EC%B8%A1%EA%B3%BC_%EC%98%81%EC%97%85%EC%9D%BC_%EC%9C%A0%ED%98%95%ED%99%94/%EC%86%8C%EA%B7%9C%EB%AA%A8_%EC%A3%BC%EC%A0%90%EC%9D%98_%EC%9D%BC%EB%A7%A4%EC%B6%9C_%EC%98%88%EC%B8%A1%EA%B3%BC_%EC%98%81%EC%97%85%EC%9D%BC_%EC%9C%A0%ED%98%95%ED%99%94_%EC%B5%9C%EC%A2%85%EB%B3%B8.ipynb) |
+
+원천 데이터는 `원본데이터/` 폴더에 있다. GitHub에서 노트북이 열리지 않거나 느리면 오른쪽 nbviewer 링크로 보면 된다.
+
 ## 참고자료
 
 ### 데이터 출처
