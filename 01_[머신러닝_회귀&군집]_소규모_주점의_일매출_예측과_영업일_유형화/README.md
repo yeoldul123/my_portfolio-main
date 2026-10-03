@@ -1,6 +1,6 @@
 # 소규모 주점의 일매출, 요일 말고 무엇이 움직이는가
 
-**작성자:** 최한이 &nbsp;&nbsp;|&nbsp;&nbsp; **작성일:** 2026-10-03
+**작성자:** 최한이 &nbsp;&nbsp;|&nbsp;&nbsp; **팀:** 3인 (분석 코드 작성 주도) &nbsp;&nbsp;|&nbsp;&nbsp; **작성일:** 2026-10-03
 
 ![Python](https://img.shields.io/badge/Python-3.13.9-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-2.3.3-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-2.3.5-013243?logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.9.0-F7931E?logo=scikitlearn&logoColor=white) ![statsmodels](https://img.shields.io/badge/statsmodels-0.14.5-4051B5) ![SHAP](https://img.shields.io/badge/SHAP-0.52.0-FF0D57)
 
