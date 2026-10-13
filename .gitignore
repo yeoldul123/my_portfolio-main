@@ -4,8 +4,5 @@
 # 아직 분석이 끝나지 않은 프로젝트
 02_*/
 
-# 작업용 백업·로그·스크립트
+# 작업용 백업
 **/_백업_*/
-**/notebook_change_log.md
-**/.notebook_feedback_state.json
-.scripts/
